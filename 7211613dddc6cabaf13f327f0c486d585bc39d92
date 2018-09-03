@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1ddcdc9a_147cb705",
+        "filename": "new_test.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1014909
+      },
+      "writtenOn": "2018-09-03T10:27:34Z",
+      "side": 1,
+      "message": "Done review",
+      "revId": "7211613dddc6cabaf13f327f0c486d585bc39d92",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    }
+  ]
+}
